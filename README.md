@@ -59,7 +59,7 @@ I would like to express my gratitude to YesChat.ai and gemini.google.com for the
 
 ## Author
 
-* Pedro Carneiro
+* Pedro Carneiro Jr.
 
 ## License
 
